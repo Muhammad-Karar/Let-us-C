@@ -1,4 +1,4 @@
-/*Question No 5:
+/*Question No 7:
 Write a program to check whether a triangle is valid or not, 
 when the three angles of the triangle are entered through the 
 keyboard. A triangle is valid if the sum of all the three angles 
