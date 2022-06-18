@@ -1,3 +1,10 @@
+/*Chap4 Q#1: Write a menu driven program which has following options: 
+ 
+  1.  Factorial of a number. 
+  2.  Prime or not 
+  3.  Odd or even 
+  4.  Exit*/
+
 #include<stdio.h>
 #include<conio.h>
 int main()
